@@ -9,3 +9,7 @@ Discover a collection of impactful Hugging Face Models, Spaces, and Datasets, ca
 Imgae Generation Module with more than 500+ Modules Integrated 
 https://huggingface.co/spaces/Yntec/ToyWorld
  
+______________________________________________________________________
+#NLP-Text Translation Modules
+mBART-50 many to many multilingual machine translation
+https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt
