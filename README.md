@@ -7,5 +7,6 @@ Discover a collection of impactful Hugging Face Models, Spaces, and Datasets, ca
 ------------------------------------------------------------------------
 # Generative Ai Modules
 Imgae Generation Module with more than 500+ Modules Integrated 
+
 https://huggingface.co/spaces/Yntec/ToyWorld
  
